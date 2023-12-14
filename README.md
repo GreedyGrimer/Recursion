@@ -1,1 +1,4 @@
-This is the code i created for my CS121 assignments. Containing examples of the skills i learned throughout the class
+| Assignment Title  | Link |
+| ------------- | ------------- |
+| Project 2  | src/Projects/P2  |
+| Recursion | src/week11/Recursion.java | 
