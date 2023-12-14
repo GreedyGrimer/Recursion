@@ -1,0 +1,4 @@
+Courses Credits Score
+art 2 0
+art again 3 9
+art again? 90 0

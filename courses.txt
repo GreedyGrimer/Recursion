@@ -1,0 +1,5 @@
+Courses Credits Score
+ART211 3 100
+CS121 4 95
+AHS102 3 63
+ENG103 3 87
